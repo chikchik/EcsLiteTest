@@ -1,8 +1,8 @@
 # README #
 
-Тестовое задание с использованием EcsLite
+Тестовое задание с использованием EcsLite.
 https://docs.google.com/document/d/1huX_UQjfb0f4OxgBPL4UXwpWuFNWQexld0mJrop7N8M/edit
-
+Задание выполненно за ~8-9ч (с учетом времени изучения EcsLite и примеров).
 
 ## Логика
 
